@@ -313,51 +313,43 @@ motto: "Code. Create. Impact."
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
-<!-- Using markdown image syntax (handles & natively, avoids HTML encoding issues) -->
 <div align="center">
 
-<!-- Stats & Streak Side by Side -->
+<!-- Stats & Streak (using github-profile-summary-cards — reliable service) -->
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushgupta0511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ayushgupta0511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushgupta0511&amp;theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ayushgupta0511&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D4FF&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=C9D1D9&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=8B949E" alt="GitHub Streak"/>
 </p>
 
-</div>
+<!-- Languages by Repo & Languages by Commit -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushgupta0511&amp;theme=tokyonight" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushgupta0511&amp;theme=tokyonight" alt="Most Commit Language"/>
+</p>
 
-<!-- Top Languages (markdown syntax for reliable rendering) -->
-<div align="center">
+<!-- Productive Time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayushgupta0511&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Productive Time"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta0511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8)
+<br/><br/>
 
-</div>
+<!-- Profile Details (full width) -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushgupta0511&amp;theme=tokyonight" alt="Profile Details"/>
 
-<br/>
-
-<!-- GitHub Trophies (markdown syntax) -->
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushgupta0511&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-<br/>
+<br/><br/>
 
 <!-- Activity Graph -->
-<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta0511&bg_color=0D1117&color=00D4FF&line=7C3AED&point=00D4FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph)
-
-</div>
 
 <br/>
 
 <!-- Contribution Snake Animation -->
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake-dark.svg" />
 </picture>
+
 </div>
 
 <!-- Animated Divider -->
@@ -599,12 +591,8 @@ Other        ██░░░░░░░░░░░░░░░░░░   10%
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1500&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together.+%F0%9F%9A%80;Star+%E2%AD%90+a+repo+if+you+find+it+useful!" alt="Footer Typing SVG" />
 
-<br/><br/>
 
-<!-- Contribution Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushgupta0511&amp;theme=tokyonight" width="90%" alt="Profile Details"/>
 
-<br/><br/>
 
 <!-- Made with Love -->
 <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-0D1117?style=for-the-badge&amp;labelColor=0D1117" />
