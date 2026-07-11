@@ -315,25 +315,25 @@ motto: "Code. Create. Impact."
 
 <div align="center">
 
-<!-- Stats & Streak (using github-profile-summary-cards — reliable service) -->
+<!-- Stats & Streak (using locally generated github-profile-summary-cards — 100% reliable) -->
 <p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushgupta0511&amp;theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Ayushgupta0511&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D4FF&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=C9D1D9&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=8B949E" alt="GitHub Streak"/>
 </p>
 
 <!-- Languages by Repo & Languages by Commit -->
 <p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushgupta0511&amp;theme=tokyonight" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushgupta0511&amp;theme=tokyonight" alt="Most Commit Language"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language"/>
 </p>
 
 <!-- Productive Time -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayushgupta0511&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Productive Time"/>
+<img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 
 <br/><br/>
 
 <!-- Profile Details (full width) -->
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushgupta0511&amp;theme=tokyonight" alt="Profile Details"/>
+<img width="95%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details"/>
 
 <br/><br/>
 
