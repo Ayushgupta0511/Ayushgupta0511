@@ -16,18 +16,25 @@
 <!-- Animated Top Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,10:1a1a2e,30:16213e,50:0f3460,70:533483,90:7c3aed,100:00d4ff&amp;height=220&amp;section=header&amp;text=AYUSH%20GUPTA&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Building%20the%20Future%20with%20Code%20and%20AI&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50"/>
 
+<br/>
+
+<!-- Hero: Typing Text + ASCII Portrait Side by Side -->
+<table>
+<tr>
+<td align="center" valign="middle" width="55%">
+
 <!-- Single Line Typing SVG -->
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=70&amp;lines=Hey+there%2C+I+am+Ayush+Gupta+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=70&amp;lines=Hey+there%2C+I+am+Ayush+Gupta+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views & Social Badges -->
 <a href="https://github.com/Ayushgupta0511">
   <img src="https://komarev.com/ghpvc/?username=Ayushgupta0511&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge&amp;labelColor=0D1117" alt="Profile Views"/>
 </a>
-&nbsp;
+<br/><br/>
 <a href="https://github.com/Ayushgupta0511?tab=followers">
   <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&amp;style=for-the-badge&amp;color=7c3aed&amp;labelColor=0D1117&amp;logo=github" alt="Followers"/>
 </a>
@@ -36,7 +43,17 @@
   <img src="https://img.shields.io/github/stars/Ayushgupta0511?label=Stars&amp;style=for-the-badge&amp;color=00d4ff&amp;labelColor=0D1117&amp;logo=github" alt="Stars"/>
 </a>
 
-<br/><br/>
+</td>
+<td align="center" valign="middle" width="45%">
+
+<!-- Animated ASCII Portrait (builds live on refresh) -->
+<img src="assets/portrait.svg" alt="ASCII Portrait" width="380"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Animated Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=Building%20solutions%20that%20make%20students%27%20lives%20easier.&amp;author=Ayush%20Gupta" alt="Quote"/>
@@ -49,10 +66,6 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                   ABOUT ME SECTION                           ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:161B22&amp;height=1&amp;section=header" width="100%"/>
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> &nbsp;About Me
 
@@ -300,46 +313,51 @@ motto: "Code. Create. Impact."
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
+<!-- Using markdown image syntax (handles & natively, avoids HTML encoding issues) -->
 <div align="center">
 
 <!-- Stats & Streak Side by Side -->
 <p>
-  <a href="https://github.com/Ayushgupta0511">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushgupta0511&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=7C3AED&amp;text_color=C9D1D9&amp;ring_color=7C3AED&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Ayushgupta0511">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta0511&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D4FF&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=C9D1D9&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=8B949E" alt="GitHub Streak"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushgupta0511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ayushgupta0511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
-<!-- Top Languages -->
-<a href="https://github.com/Ayushgupta0511">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta0511&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=C9D1D9&amp;langs_count=8" alt="Top Languages"/>
-</a>
+</div>
 
-<br/><br/>
+<!-- Top Languages (markdown syntax for reliable rendering) -->
+<div align="center">
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/Ayushgupta0511">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushgupta0511&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophies"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta0511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8)
 
-<br/><br/>
+</div>
+
+<br/>
+
+<!-- GitHub Trophies (markdown syntax) -->
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushgupta0511&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+<br/>
 
 <!-- Activity Graph -->
-<a href="https://github.com/Ayushgupta0511">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta0511&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=7C3AED&amp;point=00D4FF&amp;area=true&amp;area_color=7C3AED&amp;hide_border=true&amp;custom_title=Contribution%20Graph" alt="Activity Graph"/>
-</a>
+<div align="center">
 
-<br/><br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta0511&bg_color=0D1117&color=00D4FF&line=7C3AED&point=00D4FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph)
+
+</div>
+
+<br/>
 
 <!-- Contribution Snake Animation -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Ayushgupta0511/Ayushgupta0511/output/github-snake-dark.svg" />
 </picture>
-
 </div>
 
 <!-- Animated Divider -->
