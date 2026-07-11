@@ -14,32 +14,32 @@
 <div align="center">
 
 <!-- Animated Top Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:1a1a2e,30:16213e,50:0f3460,70:533483,90:7c3aed,100:00d4ff&height=220&section=header&text=AYUSH%20GUPTA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descSize=18&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,10:1a1a2e,30:16213e,50:0f3460,70:533483,90:7c3aed,100:00d4ff&amp;height=220&amp;section=header&amp;text=AYUSH%20GUPTA&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Building%20the%20Future%20with%20Code%20and%20AI&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50"/>
 
-<!-- Animated Typing SVG -->
+<!-- Single Line Typing SVG -->
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Ayush+Gupta;%F0%9F%8E%93+B.Tech+Computer+Science+Student;%F0%9F%A4%96+AI+Enthusiast+%7C+Problem+Solver;%F0%9F%9A%80+Building+Solutions+for+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=70&amp;lines=Hey+there%2C+I+am+Ayush+Gupta+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://komarev.com/ghpvc/?username=Ayushgupta0511&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ayushgupta0511&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge&amp;labelColor=0D1117" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ayushgupta0511?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0D1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&amp;style=for-the-badge&amp;color=7c3aed&amp;labelColor=0D1117&amp;logo=github" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ayushgupta0511?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Ayushgupta0511?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0D1117&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/Ayushgupta0511?label=Stars&amp;style=for-the-badge&amp;color=00d4ff&amp;labelColor=0D1117&amp;logo=github" alt="Stars"/>
 </a>
 
 <br/><br/>
 
 <!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20solutions%20that%20make%20students%27%20lives%20easier.&author=Ayush%20Gupta" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=Building%20solutions%20that%20make%20students%27%20lives%20easier.&amp;author=Ayush%20Gupta" alt="Quote"/>
 
 </div>
 
@@ -51,17 +51,17 @@
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:161B22&amp;height=1&amp;section=header" width="100%"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> &nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ2Z2RmMzlhZnRiOHNwNnI0dWFzMGZmMnJiZzVlYnVzb2Z0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```yaml
 name: Ayush Gupta
 role: B.Tech Computer Science Student
-location: India
+location: Greater Noida, India
 code_since: 2023
 current_focus: Student-focused AI Solutions
 motto: "Code. Create. Impact."
@@ -121,7 +121,7 @@ motto: "Code. Create. Impact."
 
 <!-- Backend -->
 <details open>
-<summary><h3>⚙️ Backend & Database</h3></summary>
+<summary><h3>⚙️ Backend &amp; Database</h3></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
@@ -134,7 +134,7 @@ motto: "Code. Create. Impact."
 
 <!-- AI/ML -->
 <details open>
-<summary><h3>🧠 AI & Computer Vision</h3></summary>
+<summary><h3>🧠 AI &amp; Computer Vision</h3></summary>
 <br/>
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -146,7 +146,7 @@ motto: "Code. Create. Impact."
 
 <!-- Tools & Platforms -->
 <details open>
-<summary><h3>🛠️ Tools & Platforms</h3></summary>
+<summary><h3>🛠️ Tools &amp; Platforms</h3></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -163,7 +163,7 @@ motto: "Code. Create. Impact."
 <br/>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,docker,figma,vercel,tailwind&theme=dark&perline=10" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,docker,figma,vercel,tailwind&amp;theme=dark&amp;perline=10" alt="Skills" />
   </a>
 </p>
 
@@ -214,16 +214,7 @@ motto: "Code. Create. Impact."
 
 <div align="center">
 
-<!-- Project 1: EduCare AI -->
-<a href="https://github.com/Ayushgupta0511">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgupta0511&repo=EduCare-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9" width="400"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" align="center">
 
@@ -238,7 +229,7 @@ motto: "Code. Create. Impact."
 <p>AI-powered platform that predicts student dropout risk, provides personalized recommendations, and helps institutions improve student outcomes.</p>
 
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </td>
@@ -255,7 +246,7 @@ motto: "Code. Create. Impact."
 <p>Advanced deepfake detection using Gemini Vision API and computer vision techniques to identify manipulated media content.</p>
 
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </td>
@@ -274,7 +265,7 @@ motto: "Code. Create. Impact."
 <p>Collection of computer vision projects including hand tracking, face detection, pose estimation, and gesture recognition.</p>
 
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </td>
@@ -283,7 +274,7 @@ motto: "Code. Create. Impact."
 <h3>🚀 Future AI Projects</h3>
 <p><em>Coming Soon — More AI Innovation</em></p>
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=flat-square&logo=ai&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=flat-square&logo=openai&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-00D4FF?style=flat-square&logo=probot&logoColor=0D1117)
 ![Innovation](https://img.shields.io/badge/Innovation-7C3AED?style=flat-square&logo=lightning&logoColor=white)
@@ -291,12 +282,14 @@ motto: "Code. Create. Impact."
 <p>Exploring new frontiers in AI — building intelligent systems that solve real problems for students and communities.</p>
 
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://img.shields.io/badge/Stay_Tuned-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stay_Tuned-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -312,30 +305,30 @@ motto: "Code. Create. Impact."
 <!-- Stats & Streak Side by Side -->
 <p>
   <a href="https://github.com/Ayushgupta0511">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushgupta0511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushgupta0511&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;icon_color=7C3AED&amp;text_color=C9D1D9&amp;ring_color=7C3AED&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Ayushgupta0511">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta0511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta0511&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D4FF&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=00D4FF&amp;sideLabels=C9D1D9&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=8B949E" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- Top Languages -->
 <a href="https://github.com/Ayushgupta0511">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta0511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta0511&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D4FF&amp;text_color=C9D1D9&amp;langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushgupta0511&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushgupta0511&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophies"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/Ayushgupta0511">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta0511&bg_color=0D1117&color=00D4FF&line=7C3AED&point=00D4FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta0511&amp;bg_color=0D1117&amp;color=00D4FF&amp;line=7C3AED&amp;point=00D4FF&amp;area=true&amp;area_color=7C3AED&amp;hide_border=true&amp;custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </a>
 
 <br/><br/>
@@ -356,34 +349,34 @@ motto: "Code. Create. Impact."
 <!-- ║                    ACHIEVEMENTS                              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Achievements & Milestones
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Achievements &amp; Milestones
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/🏆-Hackathons-00D4FF?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub><b>Participated &<br/>Competed</b></sub>
+<img src="https://img.shields.io/badge/🏆-Hackathons-00D4FF?style=for-the-badge&amp;labelColor=0D1117" /><br/>
+<sub><b>Participated &amp;<br/>Competed</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/📦-Projects-7C3AED?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub><b>Built &<br/>Deployed</b></sub>
+<img src="https://img.shields.io/badge/📦-Projects-7C3AED?style=for-the-badge&amp;labelColor=0D1117" /><br/>
+<sub><b>Built &amp;<br/>Deployed</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/⭐-Stars-FFCA28?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/⭐-Stars-FFCA28?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub><b>Earned on<br/>GitHub</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/🧠-Languages-3776AB?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/🧠-Languages-3776AB?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub><b>5+<br/>Learned</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/🤝-Open_Source-0F9D58?style=for-the-badge&labelColor=0D1117" /><br/>
-<sub><b>Contributor &<br/>Builder</b></sub>
+<img src="https://img.shields.io/badge/🤝-Open_Source-0F9D58?style=for-the-badge&amp;labelColor=0D1117" /><br/>
+<sub><b>Contributor &amp;<br/>Builder</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/💻-Coding-FF6F61?style=for-the-badge&labelColor=0D1117" /><br/>
+<img src="https://img.shields.io/badge/💻-Coding-FF6F61?style=for-the-badge&amp;labelColor=0D1117" /><br/>
 <sub><b>Daily<br/>Practice</b></sub>
 </td>
 </tr>
@@ -432,7 +425,7 @@ motto: "Code. Create. Impact."
 </td>
 <td align="center" width="33%">
 
-![AI](https://img.shields.io/badge/AI_&_ML-0D1117?style=for-the-badge&logo=googlegemini&logoColor=886FBF)
+![AI](https://img.shields.io/badge/AI_and_ML-0D1117?style=for-the-badge&logo=googlegemini&logoColor=886FBF)
 <br/><sub><b>Artificial Intelligence</b></sub>
 
 </td>
@@ -457,13 +450,6 @@ motto: "Code. Create. Impact."
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Coding Activity
 
 <div align="center">
-
-<!-- WakaTime Stats (placeholder — replace with your actual WakaTime username) -->
-<!--
-<a href="https://wakatime.com/@Ayushgupta0511">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayushgupta0511&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
-</a>
--->
 
 <!-- Recent Activity Summary -->
 <table>
@@ -508,31 +494,52 @@ Other        ██░░░░░░░░░░░░░░░░░░   10%
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
 
 <div align="center">
+<br/>
 
+<table>
+<tr>
+<td align="center" width="20%">
 <a href="https://github.com/Ayushgupta0511" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" width="150"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ayush-gupta0511/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/i__ush_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://reddit.com/user/Ayushgupta0511" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ayushjai0511@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-
 <br/><br/>
+<sub><b>Follow my work</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://www.linkedin.com/in/ayush-gupta0511/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff" alt="LinkedIn" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Let's network</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://instagram.com/i__ush_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=ffffff" alt="Instagram" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Behind the scenes</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="https://reddit.com/user/Ayushgupta0511" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=ffffff" alt="Reddit" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Join discussions</b></sub>
+</td>
+<td align="center" width="20%">
+<a href="mailto:ayushjai0511@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff" alt="Email" width="150"/>
+</a>
+<br/><br/>
+<sub><b>Drop a message</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=500&lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing!+%F0%9F%9A%80;DMs+are+always+open+%F0%9F%92%AC" alt="Connect Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=4000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing!+%F0%9F%9A%80;DMs+are+always+open+%F0%9F%92%AC" alt="Connect Typing SVG" />
 
 </div>
 
@@ -548,39 +555,18 @@ Other        ██░░░░░░░░░░░░░░░░░░   10%
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Coding_Since-2023-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Coding_Since-2023-00D4FF?style=for-the-badge&amp;labelColor=0D1117" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Ayushgupta0511?label=Last%20Active&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/last-commit/Ayushgupta0511/Ayushgupta0511?label=Last%20Active&amp;style=for-the-badge&amp;color=7C3AED&amp;labelColor=0D1117" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Ayushgupta0511?label=Profile%20Size&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/repo-size/Ayushgupta0511/Ayushgupta0511?label=Profile%20Size&amp;style=for-the-badge&amp;color=00D4FF&amp;labelColor=0D1117" />
 </td>
 </tr>
 </table>
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    RANDOM DEV QUOTE                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<br/>
-
-<a href="https://github.com/Ayushgupta0511">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</a>
-
-</div>
-
-<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -593,22 +579,22 @@ Other        ██░░░░░░░░░░░░░░░░░░   10%
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together.+%F0%9F%9A%80;Star+%E2%AD%90+a+repo+if+you+find+it+useful!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1500&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together.+%F0%9F%9A%80;Star+%E2%AD%90+a+repo+if+you+find+it+useful!" alt="Footer Typing SVG" />
 
 <br/><br/>
 
 <!-- Contribution Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushgupta0511&theme=tokyonight" width="90%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushgupta0511&amp;theme=tokyonight" width="90%" alt="Profile Details"/>
 
 <br/><br/>
 
 <!-- Made with Love -->
-<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-0D1117?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-0D1117?style=for-the-badge&amp;labelColor=0D1117" />
 
 <br/><br/>
 
 <!-- Animated Bottom Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,20:7c3aed,40:533483,60:0f3460,80:16213e,100:0D1117&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d4ff,20:7c3aed,40:533483,60:0f3460,80:16213e,100:0D1117&amp;height=150&amp;section=footer&amp;animation=twinkling"/>
 
 </div>
 
