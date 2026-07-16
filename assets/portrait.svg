@@ -1,21 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 470" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 691" fill="none">
   <defs>
-    <!-- Terminal glow effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-    <!-- Scan line gradient -->
     <linearGradient id="scanGrad" x1="0" x2="0" y1="0" y2="1">
       <stop offset="0%" stop-color="#00D4FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00D4FF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#00D4FF" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <style>
     @keyframes fadeIn {
-      from { opacity: 0; transform: translateX(-3px); }
+      from { opacity: 0; transform: translateX(-2px); }
       to { opacity: 1; transform: translateX(0); }
     }
     @keyframes blink {
@@ -23,17 +17,17 @@
       50% { opacity: 0; }
     }
     @keyframes scanDown {
-      0% { transform: translateY(40px); opacity: 0; }
+      0% { transform: translateY(36px); opacity: 0; }
       5% { opacity: 1; }
       90% { opacity: 1; }
-      100% { transform: translateY(430px); opacity: 0; }
+      100% { transform: translateY(661px); opacity: 0; }
     }
 
     .line {
-      font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace;
-      font-size: 12.5px;
+      font-family: "JetBrains Mono", "Fira Code", "Cascadia Code", "SF Mono", "Courier New", monospace;
+      font-size: 10px;
       opacity: 0;
-      animation: fadeIn 0.35s ease-out forwards;
+      animation: fadeIn 0.25s ease-out forwards;
     }
 
     .cyan   { fill: #00D4FF; }
@@ -43,107 +37,141 @@
     .purple { fill: #BC8CFF; }
     .gold   { fill: #FFCA28; }
 
-    .l0  { animation-delay: 0.1s; }
-    .l1  { animation-delay: 0.25s; }
-    .l2  { animation-delay: 0.55s; }
-    .l3  { animation-delay: 0.70s; }
-    .l4  { animation-delay: 0.85s; }
-    .l5  { animation-delay: 1.00s; }
-    .l6  { animation-delay: 1.15s; }
-    .l7  { animation-delay: 1.30s; }
-    .l8  { animation-delay: 1.45s; }
-    .l9  { animation-delay: 1.60s; }
-    .l10 { animation-delay: 1.75s; }
-    .l11 { animation-delay: 1.90s; }
-    .l12 { animation-delay: 2.05s; }
-    .l13 { animation-delay: 2.20s; }
-    .l14 { animation-delay: 2.35s; }
-    .l15 { animation-delay: 2.50s; }
-    .l16 { animation-delay: 2.65s; }
-    .l17 { animation-delay: 2.80s; }
-    .l18 { animation-delay: 2.95s; }
-    .l19 { animation-delay: 3.10s; }
-    .l20 { animation-delay: 3.30s; }
-    .l21 { animation-delay: 3.50s; }
-    .l22 { animation-delay: 3.70s; }
-    .l23 { animation-delay: 3.90s; }
-    .l24 { animation-delay: 4.20s; }
+    .l0 { animation-delay: 0.00s; }
+    .l1 { animation-delay: 0.06s; }
+    .l2 { animation-delay: 0.12s; }
+    .l3 { animation-delay: 0.18s; }
+    .l4 { animation-delay: 0.24s; }
+    .l5 { animation-delay: 0.30s; }
+    .l6 { animation-delay: 0.36s; }
+    .l7 { animation-delay: 0.42s; }
+    .l8 { animation-delay: 0.48s; }
+    .l9 { animation-delay: 0.54s; }
+    .l10 { animation-delay: 0.60s; }
+    .l11 { animation-delay: 0.66s; }
+    .l12 { animation-delay: 0.72s; }
+    .l13 { animation-delay: 0.78s; }
+    .l14 { animation-delay: 0.84s; }
+    .l15 { animation-delay: 0.90s; }
+    .l16 { animation-delay: 0.96s; }
+    .l17 { animation-delay: 1.02s; }
+    .l18 { animation-delay: 1.08s; }
+    .l19 { animation-delay: 1.14s; }
+    .l20 { animation-delay: 1.20s; }
+    .l21 { animation-delay: 1.26s; }
+    .l22 { animation-delay: 1.32s; }
+    .l23 { animation-delay: 1.38s; }
+    .l24 { animation-delay: 1.44s; }
+    .l25 { animation-delay: 1.50s; }
+    .l26 { animation-delay: 1.56s; }
+    .l27 { animation-delay: 1.62s; }
+    .l28 { animation-delay: 1.68s; }
+    .l29 { animation-delay: 1.74s; }
+    .l30 { animation-delay: 1.80s; }
+    .l31 { animation-delay: 1.86s; }
+    .l32 { animation-delay: 1.92s; }
+    .l33 { animation-delay: 1.98s; }
+    .l34 { animation-delay: 2.04s; }
+    .l35 { animation-delay: 2.10s; }
+    .l36 { animation-delay: 2.16s; }
+    .l37 { animation-delay: 2.22s; }
+    .l38 { animation-delay: 2.28s; }
+    .l39 { animation-delay: 2.34s; }
+    .l40 { animation-delay: 2.40s; }
+    .l41 { animation-delay: 2.46s; }
+    .l42 { animation-delay: 2.52s; }
+    .l43 { animation-delay: 2.58s; }
+    .l44 { animation-delay: 2.64s; }
+    .l45 { animation-delay: 2.70s; }
+    .l46 { animation-delay: 2.76s; }
+    .l47 { animation-delay: 2.82s; }
+    .l48 { animation-delay: 2.88s; }
 
     .cursor {
       fill: #3FB950;
       animation: blink 1s step-end infinite;
-      animation-delay: 4.5s;
+      animation-delay: 3.3s;
       opacity: 0;
     }
 
     .scan-line {
-      animation: scanDown 4s ease-in-out forwards;
-      animation-delay: 0.3s;
+      animation: scanDown 2.8s ease-in-out forwards;
+      animation-delay: 0.1s;
     }
 
     .header-text {
-      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
-      font-size: 11px;
+      font-family: "JetBrains Mono", "Fira Code", "Courier New", monospace;
+      font-size: 9px;
       fill: #8B949E;
     }
   </style>
 
-  <!-- ══ Terminal Window ══ -->
-  <!-- Outer glow border -->
-  <rect x="1" y="1" width="418" height="468" rx="13" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.3"/>
-  <!-- Main background -->
-  <rect x="0" y="0" width="420" height="470" rx="12" fill="#0D1117"/>
-  <!-- Border -->
-  <rect x="0" y="0" width="420" height="470" rx="12" fill="none" stroke="#30363D" stroke-width="1"/>
+  <!-- Terminal Window -->
+  <rect x="1" y="1" width="288" height="689" rx="10" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.3"/>
+  <rect x="0" y="0" width="290" height="691" rx="10" fill="#0D1117"/>
+  <rect x="0" y="0" width="290" height="691" rx="10" fill="none" stroke="#30363D" stroke-width="1"/>
 
-  <!-- ══ Header Bar ══ -->
-  <rect x="1" y="1" width="418" height="34" rx="12" fill="#161B22"/>
-  <rect x="1" y="22" width="418" height="13" fill="#161B22"/>
-  <!-- Separator line -->
-  <line x1="0" y1="35" x2="420" y2="35" stroke="#30363D" stroke-width="0.5"/>
-  <!-- Traffic light dots -->
-  <circle cx="20" cy="18" r="5.5" fill="#FF5F56"/>
-  <circle cx="38" cy="18" r="5.5" fill="#FFBD2E"/>
-  <circle cx="56" cy="18" r="5.5" fill="#27C93F"/>
-  <!-- Title -->
-  <text x="210" y="22" text-anchor="middle" class="header-text">portrait.sh — terminal</text>
+  <!-- Header Bar -->
+  <rect x="1" y="1" width="288" height="34" rx="10" fill="#161B22"/>
+  <rect x="1" y="22" width="288" height="14" fill="#161B22"/>
+  <line x1="0" y1="36" x2="290" y2="36" stroke="#30363D" stroke-width="0.5"/>
+  <circle cx="16" cy="18" r="5" fill="#FF5F56"/>
+  <circle cx="32" cy="18" r="5" fill="#FFBD2E"/>
+  <circle cx="48" cy="18" r="5" fill="#27C93F"/>
+  <text x="145" y="22" text-anchor="middle" class="header-text">portrait.sh — terminal</text>
 
-  <!-- ══ Scan Line Effect ══ -->
-  <rect class="scan-line" x="5" y="40" width="410" height="12" rx="1" fill="url(#scanGrad)" opacity="0"/>
+  <!-- Scan Line Effect -->
+  <rect class="scan-line" x="4" y="36" width="282" height="8" rx="1" fill="url(#scanGrad)" opacity="0"/>
 
-  <!-- ══ Content Lines ══ -->
-  <!-- Command -->
-  <text class="line green l0" x="20" y="60" xml:space="preserve">$ ./render_portrait.sh</text>
-  <!-- Loading bar -->
-  <text class="line dim l1" x="20" y="78" xml:space="preserve">[#####################] 100%</text>
-
-  <!-- ══ ASCII Portrait ══ -->
-  <text class="line cyan l2"  x="20" y="102" xml:space="preserve">        .=*#%%@@@@%%#*=.        </text>
-  <text class="line cyan l3"  x="20" y="118" xml:space="preserve">      =#@@@@@@@@@@@@@@@@#=      </text>
-  <text class="line cyan l4"  x="20" y="134" xml:space="preserve">    =@@@@@@@@@@@@@@@@@@@@@@=    </text>
-  <text class="line cyan l5"  x="20" y="150" xml:space="preserve">   #@@@@@@@@@@@@@@@@@@@@@@@@#   </text>
-  <text class="line cyan l6"  x="20" y="166" xml:space="preserve">  %@@@@@*=::::::::::=*@@@@@%   </text>
-  <text class="line cyan l7"  x="20" y="182" xml:space="preserve"> #@@@@=                =@@@@#  </text>
-  <text class="line cyan l8"  x="20" y="198" xml:space="preserve"> @@@@   [====]  [====]  @@@@   </text>
-  <text class="line cyan l9"  x="20" y="214" xml:space="preserve"> @@@@   | ** |  | ** |  @@@@   </text>
-  <text class="line cyan l10" x="20" y="230" xml:space="preserve"> @@@@   [====]  [====]  @@@@   </text>
-  <text class="line cyan l11" x="20" y="246" xml:space="preserve"> #@@@@=       @@      =@@@@#  </text>
-  <text class="line cyan l12" x="20" y="262" xml:space="preserve">  %@@@@@*  @@@@@@  *@@@@@%    </text>
-  <text class="line cyan l13" x="20" y="278" xml:space="preserve">   #@@@@@  {-----}  @@@@@#    </text>
-  <text class="line cyan l14" x="20" y="294" xml:space="preserve">    =@@@@@  '---'  @@@@@=     </text>
-  <text class="line cyan l15" x="20" y="310" xml:space="preserve">      =#@@@@@@@@@@@@@@#=      </text>
-  <text class="line cyan l16" x="20" y="326" xml:space="preserve">        .=*#%%@@%%#*=.        </text>
-  <text class="line cyan l17" x="20" y="342" xml:space="preserve">       @@   @@@@@@   @@       </text>
-  <text class="line cyan l18" x="20" y="358" xml:space="preserve">      @@     @@@@     @@      </text>
-
-  <!-- ══ Info Lines ══ -->
-  <text class="line green l20"  x="20" y="386" xml:space="preserve">&gt; name = "Ayush Gupta"</text>
-  <text class="line purple l21" x="20" y="404" xml:space="preserve">&gt; role = "B.Tech CS | AI Dev"</text>
-  <text class="line dim l22"    x="20" y="422" xml:space="preserve">&gt; city = "Greater Noida, IN"</text>
-
-  <!-- ══ Completion ══ -->
-  <text class="line gold l24" x="20" y="450" xml:space="preserve">render_complete ✓</text>
+  <!-- Content -->
+  <text class="line cyan l0" x="14" y="64" xml:space="preserve">zzzXUJYYUJJUUUCL000Z0OmOOmwwOQQ0JUYXzuxxjt</text>
+  <text class="line cyan l1" x="14" y="77" xml:space="preserve">XYYJCLJUCCCLCLQOOOOOOmdZmpppqmOOQJUYznnxrf</text>
+  <text class="line cyan l2" x="14" y="90" xml:space="preserve">JCLQQ0QCLLQQQQOZZwpkkhkh*hkdppm0QCJYzunxrt</text>
+  <text class="line cyan l3" x="14" y="103" xml:space="preserve">LQ0OOmmZ0Q0OOOOwa*0f+-!&gt;jmqo*kq0QQCYzvuxjt</text>
+  <text class="line cyan l4" x="14" y="116" xml:space="preserve">Q0OmmwqqZ0OOZZpm|+       .&quot;+xpobOQLJXvuxf/</text>
+  <text class="line cyan l5" x="14" y="129" xml:space="preserve">QOZmwqpwOOOZOqZ,             `?/qZCJXcnjt\</text>
+  <text class="line cyan l6" x="14" y="142" xml:space="preserve">J0ZwwwZOZZZmZw! .               &lt;UOJYcxjf\</text>
+  <text class="line cyan l7" x="14" y="155" xml:space="preserve">XLOwwOQ00ZmZk) .               . `XQYvxjt\</text>
+  <text class="line cyan l8" x="14" y="168" xml:space="preserve">cUCOOQCLLQZmd!                  . &gt;c/vxj/|</text>
+  <text class="line cyan l9" x="14" y="181" xml:space="preserve">vXYJCCJCCLQOw;                    .:nvrf/|</text>
+  <text class="line cyan l10" x="14" y="194" xml:space="preserve">nvvXYXUJJLQ0Z;`    ,&lt;_;            ;|rrf\|</text>
+  <text class="line cyan l11" x="14" y="207" xml:space="preserve">xxjxuzXcYCJQQi{{&quot; .[t1!&apos;&apos;.      &gt;``]|nj/|(</text>
+  <text class="line cyan l12" x="14" y="220" xml:space="preserve">nj/\jvcXUYUCXi`{j.!:,l:^       ~dcvYXnj/|)</text>
+  <text class="line cyan l13" x="14" y="233" xml:space="preserve">vf((tnuzXcYJc&lt; &lt;(:v|&apos; ;&apos;      &quot;b0JXcurf\()</text>
+  <text class="line cyan l14" x="14" y="246" xml:space="preserve">vf))/xnvcvXUz?)I?,v0\&quot;.       ^uJXcuxjt\)1</text>
+  <text class="line cyan l15" x="14" y="259" xml:space="preserve">zurjncczcczXC-rtIljdZ?&apos;   ^&quot;    )Ynxrf/|1{</text>
+  <text class="line cyan l16" x="14" y="272" xml:space="preserve">XzXYJYYYccXzY//]:ixOqv!.&quot;1]l ``&lt;nnjft/\){}</text>
+  <text class="line cyan l17" x="14" y="285" xml:space="preserve">t|fuYUYYYXXJC|t+!lrdqx: &apos;l[! cvcuff/\((1{[</text>
+  <text class="line cyan l18" x="14" y="298" xml:space="preserve">?_?|uYJJUzzt]?n?:;!jL] `&apos;   )Qznrff\|)1{{}</text>
+  <text class="line cyan l19" x="14" y="311" xml:space="preserve">/__)uYCQLnhj -vfi^`&quot;&gt;`&apos;&quot;`. {Cunrjt/|)1{}}}</text>
+  <text class="line cyan l20" x="14" y="324" xml:space="preserve">ftfxJQ00JQ@M{`-f-,&apos;.`,&apos;   ?Jxxrjt\|)11{}[[</text>
+  <text class="line cyan l21" x="14" y="337" xml:space="preserve">)X0000JLUd@B$m&gt;&apos;^&apos;&apos;.&apos;^`. ]Yjjff\(()1{{}[[[</text>
+  <text class="line cyan l22" x="14" y="350" xml:space="preserve">/XYYY|{Xvnd&amp;B$$Z&quot; .     {()/|()1{{{{}[]?]]</text>
+  <text class="line cyan l23" x="14" y="363" xml:space="preserve">Cu|1(\~)vzCh#8B$d.   . _&amp;l.~{1{}[[[[[][[[]</text>
+  <text class="line cyan l24" x="14" y="376" xml:space="preserve">wQcffX}+vJ0bkM%%$m]   ,p\^&quot;&apos;l&lt;]]][]]][}}[]</text>
+  <text class="line cyan l25" x="14" y="389" xml:space="preserve">mwQ/tmk~_XJLQ0M8W@%z &apos;z[`;I:I:i-_???][[[]]</text>
+  <text class="line cyan l26" x="14" y="402" xml:space="preserve">mwO(&lt;cMJlrCnrUJk#W@$-l~^lIiiilI&lt;l&gt;_+_-----</text>
+  <text class="line cyan l27" x="14" y="415" xml:space="preserve">LwqC~_0&amp;)}L(\cCzLaB#qi:!!!&gt;_+&gt;l&gt;:I~&lt;~~&lt;~~~</text>
+  <text class="line cyan l28" x="14" y="428" xml:space="preserve">zCZkO+\ad[|[{(nQUUbwLl!iiii_1~&gt;&lt;li-){1{1}[</text>
+  <text class="line cyan l29" x="14" y="441" xml:space="preserve">LtuwkJ]mWn&lt;jx1}/LpX&amp;Y~i__i&gt;&gt;[{i-i!!))1({(1</text>
+  <text class="line cyan l30" x="14" y="454" xml:space="preserve">Zf}OppJp*L;rJn/[]Ywkx_~{]&lt;&lt;&lt;&gt;-!I:;l]/1f{/1</text>
+  <text class="line cyan l31" x="14" y="467" xml:space="preserve">0X}upqbdkk~}UCut(}xp(&lt;?-}__~l&lt;!I&quot;I;i[_{]]+</text>
+  <text class="line cyan l32" x="14" y="480" xml:space="preserve">QXf{Zqpqp*}~LJnxvx/nYX\-]__~il:,`;&quot;!_-]}?-</text>
+  <text class="line cyan l33" x="14" y="493" xml:space="preserve">Lzf&lt;rpwmpac[Jv|tXUt{OdX+~-&lt;~!l,&apos;^:,III!!ii</text>
+  <text class="line cyan l34" x="14" y="506" xml:space="preserve">JUu~~pZZpdwuUf{jvUt&lt;LcX!,??iiI&quot;.^::;:;II;;</text>
+  <text class="line cyan l35" x="14" y="519" xml:space="preserve">YCYl(wOmwpqJJvfxCXn?fLX&gt;:l[?!;^ &apos;,,,Il!!!!</text>
+  <text class="line cyan l36" x="14" y="532" xml:space="preserve">XCr;00OZmwqXXJcQ0Cc?1Qc};l&lt;]_:&apos; &apos;^^,iI!!ll</text>
+  <text class="line cyan l37" x="14" y="545" xml:space="preserve">cX&gt;t0L0OZmw0nXL0m0zr[YU[IIli_!&apos; .&apos;`&quot;&gt;i!!!!</text>
+  <text class="line cyan l38" x="14" y="558" xml:space="preserve">1f.cCCQQ0Om0cJJOZCUJ{cz(l;;I&lt;i&apos; &apos;`&quot;&quot;+~l!ll</text>
+  <text class="line cyan l39" x="14" y="571" xml:space="preserve">+[&apos;rJJCLQ0ZcxLOZ00Xv)rY|&lt;;I;i&lt;^.`&quot;`;_i;!!l</text>
+  <text class="line cyan l40" x="14" y="584" xml:space="preserve">)^&apos;fUYJCCLOr|O000Ju?Inc-{l;&quot;&quot;I^.`&quot;I~+I;ll!</text>
+  <text class="line cyan l41" x="14" y="597" xml:space="preserve">\&quot;\czXYUJCLYcJLLYJj_i!{l&gt;_I,```.&apos;:!!;;;Il;</text>
+  <text class="line cyan l42" x="14" y="610" xml:space="preserve">[1cuvzXYYUJCucJJJcnf-&quot;,l,;I&quot;&quot;&quot;^&apos;.^&quot;:;&quot;:;I;</text>
+  <text class="line green l43" x="14" y="636" xml:space="preserve">&gt; name = "Ayush Gupta"</text>
+  <text class="line purple l44" x="14" y="649" xml:space="preserve">&gt; role = "B.Tech CS | AI Dev"</text>
+  <text class="line dim l45" x="14" y="662" xml:space="preserve">&gt; city = "Greater Noida, IN"</text>
+  <text class="line gold l46" x="14" y="681" xml:space="preserve">render_complete ✓</text>
 
   <!-- Blinking cursor -->
-  <rect class="cursor" x="180" y="440" width="8" height="14" rx="1"/>
+  <rect class="cursor" x="122" y="671" width="6" height="11" rx="1"/>
 </svg>
