@@ -47,7 +47,7 @@
 <td align="center" valign="middle" width="45%">
 
 <!-- Animated ASCII Portrait (builds live on refresh) -->
-<img src="assets/portrait.svg" alt="ASCII Portrait" width="380"/>
+<img src="assets/portrait.svg" alt="ASCII Portrait" width="280"/>
 
 </td>
 </tr>
