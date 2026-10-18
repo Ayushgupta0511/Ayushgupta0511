@@ -18,37 +18,57 @@
 
 <br/>
 
-<!-- Hero: Typing Text + ASCII Portrait Side by Side -->
-<table>
-<tr>
-<td align="center" valign="middle" width="55%">
+<!-- ✨ CREATIVE HORIZONTAL HERO ✨ -->
 
-<!-- Single Line Typing SVG -->
+<!-- Greeting Typing Animation -->
 <a href="https://github.com/Ayushgupta0511">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=70&amp;lines=Hey+there%2C+I+am+Ayush+Gupta+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+there%2C+I%27m+Ayush+Gupta+%F0%9F%91%8B;AI+%26+Vision+Developer+%F0%9F%A4%96;Code.+Create.+Impact.+%F0%9F%9A%80;Building+Student-Focused+Tech+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Views & Social Badges -->
-
-<a href="https://github.com/Ayushgupta0511?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&amp;style=for-the-badge&amp;color=7c3aed&amp;labelColor=0D1117&amp;logo=github" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ayushgupta0511?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Ayushgupta0511?label=Stars&amp;style=for-the-badge&amp;color=00d4ff&amp;labelColor=0D1117&amp;logo=github" alt="Stars"/>
-</a>
-
+<!-- Creative Horizontal Identity Strip -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="180">
+  <img src="https://img.shields.io/badge/🎓%20B.Tech-Computer%20Science-00D4FF?style=for-the-badge&labelColor=0D1117" /><br/>
+  <sub><b>Education</b></sub>
 </td>
-<td align="center" valign="middle" width="45%">
-
-<!-- Animated ASCII Portrait (builds live on refresh) -->
-<img src="assets/portrait.svg" alt="ASCII Portrait" width="280"/>
-
+<td align="center" width="20"><img src="https://img.shields.io/badge/%7C-0D1117?style=for-the-badge&labelColor=0D1117&color=333366" width="4"/></td>
+<td align="center" width="180">
+  <img src="https://img.shields.io/badge/📍%20Greater-Noida%2C%20India-7C3AED?style=for-the-badge&labelColor=0D1117" /><br/>
+  <sub><b>Location</b></sub>
+</td>
+<td align="center" width="20"><img src="https://img.shields.io/badge/%7C-0D1117?style=for-the-badge&labelColor=0D1117&color=333366" width="4"/></td>
+<td align="center" width="180">
+  <img src="https://img.shields.io/badge/🤖%20Focus-AI%20%26%20Vision-00D4FF?style=for-the-badge&labelColor=0D1117" /><br/>
+  <sub><b>Specialty</b></sub>
+</td>
+<td align="center" width="20"><img src="https://img.shields.io/badge/%7C-0D1117?style=for-the-badge&labelColor=0D1117&color=333366" width="4"/></td>
+<td align="center" width="180">
+  <img src="https://img.shields.io/badge/⚡%20Since-2023-7C3AED?style=for-the-badge&labelColor=0D1117" /><br/>
+  <sub><b>Coding Since</b></sub>
+</td>
+<td align="center" width="20"><img src="https://img.shields.io/badge/%7C-0D1117?style=for-the-badge&labelColor=0D1117&color=333366" width="4"/></td>
+<td align="center" width="180">
+  <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-00D4FF?style=for-the-badge&labelColor=0D1117" /><br/>
+  <sub><b>Availability</b></sub>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Stats Row -->
+<a href="https://github.com/Ayushgupta0511?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0D1117&logo=github" alt="Followers"/>
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🔥%20Motto-Code.%20Create.%20Impact.-FF6F00?style=for-the-badge&labelColor=0D1117" />
+&nbsp;&nbsp;
+<a href="https://github.com/Ayushgupta0511?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Ayushgupta0511?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0D1117&logo=github" alt="Stars"/>
+</a>
 
 <br/>
 
