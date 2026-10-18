@@ -31,10 +31,7 @@
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
-<a href="https://github.com/Ayushgupta0511">
-  <img src="https://komarev.com/ghpvc/?username=Ayushgupta0511&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
-</a>
-<br/><br/>
+
 <a href="https://github.com/Ayushgupta0511?tab=followers">
   <img src="https://img.shields.io/github/followers/Ayushgupta0511?label=Followers&amp;style=for-the-badge&amp;color=7c3aed&amp;labelColor=0D1117&amp;logo=github" alt="Followers"/>
 </a>
